@@ -1,6 +1,6 @@
 ## :)
 
-Note: update coming soon
+Note: I will update this file in future.
 
 <!--
 **a4archit/a4archit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
