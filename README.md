@@ -22,6 +22,11 @@ Check out some of my repositories where I apply my skills:
 - **[Data Science Projects](https://github.com/a4archit/netflix-srs)**: A collection of my data science projects showcasing my skills in machine learning and data analysis.
 - **[Web Scraping Tools](https://kaggle.com/architty108)**: Python scripts for scraping data from various websites.
 
+#### **Machine learning:**
+- [Netflix Shows Recommender System](https://netflixsrs.streamlit.com/)
+- [Human weight predictor](https://weight.streamlit.com/)
+
+
 ## 🌱 Currently Learning
 
 - Reinforcement Learning: Exploring the fascinating world of RL and its applications.
