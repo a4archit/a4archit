@@ -35,9 +35,9 @@ Check out some of my repositories where I apply my skills:
 
 Feel free to reach out if you'd like to collaborate on any projects, share ideas, or chat about data science, machine learning, or Python development!
 
-- [LinkedIn](https://www.linkedin.com/in/archit-tyagi-191323296)
-- [Email](mailto:help.atd@gmail.com)
-- [Kaggle](https://kaggle.com/architty108)
+- **[LinkedIn](https://www.linkedin.com/in/archit-tyagi-191323296)**
+- **[Email](mailto:help.atd@gmail.com)**
+- **[Kaggle](https://kaggle.com/architty108)**
 
 
 <!--
