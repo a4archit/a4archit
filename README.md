@@ -30,7 +30,7 @@ Check out some of my repositories where I apply my skills:
 ## 🌱 Currently Learning
 
 - Reinforcement Learning: Exploring the fascinating world of RL and its applications.
-- Improving my ***Machine Learning** as well.
+- Improving my *Machine Learning* as well.
   
 ## 💬 Let's Connect
 
