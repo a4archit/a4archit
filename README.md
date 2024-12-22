@@ -23,8 +23,8 @@ Check out some of my repositories where I apply my skills:
 - **[Web Scraping Tools](https://kaggle.com/architty108)**: Python scripts for scraping data from various websites.
 
 #### **Machine learning:**
-- [Netflix Shows Recommender System](https://netflixsrs.streamlit.com/)
-- [Human weight predictor](https://weight.streamlit.com/)
+- **[Netflix Shows Recommender System](https://netflixsrs.streamlit.com/)**
+- **[Human weight predictor](https://weight.streamlit.com/)**
 
 
 ## 🌱 Currently Learning
