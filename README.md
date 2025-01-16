@@ -31,7 +31,7 @@ Check out some of my repositories where I apply my skills:
 
 ## 🌱 Currently Learning
 
-- Reinforcement Learning: Exploring the fascinating world of RL and its applications.
+- Neural Networks: Understanding the amazing concepts behind Neural Networks and exploring its awesome world.
 - Improving my *Machine Learning* as well.
   
 ## 💬 Let's Connect
