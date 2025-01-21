@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate Data Engineer with a strong backg
 |-----------------------------------|--------------|-------------|-------------|
 | **Python**                        | Advanced     | [See](https://github.com/a4archit/python-planet/) | Expertise in writing efficient, reusable, and clean code.|
 | **Data Analysis & Visualization** | Intermediate |             | Skilled in using libraries like **NumPy**, **Pandas**, **Matplotlib**, and **Seaborn** to process, analyze, and visualize data.|
-| **Machine Learning**              | Intermediate | [See](https://github.com/a4archit#machine-learning) | Proficient in building machine learning models with **Scikit-learn** for both supervised and unsupervised learning.|
+| **Machine Learning**              | Intermediate | [See](https://github.com/a4archit#machine-learning) | Proficient in building machine learning models with **Scikit-learn** for both supervised and unsupervised learning with semi-supervised learning.|
 | **Web Scraping**                  | Intermediate | [See](https://www.kaggle.com/datasets/architty108/github-indian-users-deep-data) | Experienced in extracting data from websites using tools like **BeautifulSoup** and **Selenium**.|
 
 
