@@ -1,6 +1,6 @@
 # Hi, I'm Archit Tyagi 👋
 
-On a learning journey of Neural Networks, Machine Learning and Reinforcement Learning
+On a learning journey of AI Learning
 
  
 ## [Portfolio](https://a4archit.github.io/portfolio)
