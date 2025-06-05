@@ -8,7 +8,7 @@ On a learning journey of AI Learning
   
 Feel free to reach out me:
 
-| **[LinkedIn](https://www.linkedin.com/in/archit-tyagi-191323296)** | **[Email](mailto:help.atd@gmail.com)** | **[Kaggle](https://kaggle.com/architty108)** |
+| **[LinkedIn](https://www.linkedin.com/in/a4archit)** | **[Email](mailto:help.atd@gmail.com)** | **[Kaggle](https://kaggle.com/architty108)** |
 |--------------|----------------|-----------------|
 
 *more information will be updated soon* 
