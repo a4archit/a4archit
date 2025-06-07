@@ -2,7 +2,7 @@
 
 On a learning journey of AI Learning
 
- 
+  
 ## [Portfolio](https://a4archit.github.io/portfolio)
 
   
