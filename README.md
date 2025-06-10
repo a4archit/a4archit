@@ -12,11 +12,23 @@ I currently worked on these technologies to enhance my skills...
 
 ## My Stats
 
-![Contributions and streaks](https://github-readme-streak-stats.herokuapp.com/?user=a4archit)
+<div style="background-color: red;">
+  <div style="float: left; width: auto;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=a4archit">
+  </div>
+  <div style="float: left; width: auto;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a4archit&layout=donut-vertical">
+  </div>
+  <div style="float: right; width: auto;">
+    <img src="https://github-readme-stats.vercel.app/api?username=a4archit">
+  </div>
+</div
+  
+<!-- ![Contributions and streaks](https://github-readme-streak-stats.herokuapp.com/?user=a4archit) -->
 
-![Basic overview](https://github-readme-stats.vercel.app/api?username=a4archit)
+<!-- ![Basic overview](https://github-readme-stats.vercel.app/api?username=a4archit) -->
 
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=a4archit&layout=donut-vertical)
+<!-- ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=a4archit&layout=donut-vertical) -->
 
 
 
