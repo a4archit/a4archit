@@ -5,7 +5,7 @@ I currently worked on these technologies to enhance my skills...
 - Deep Learning (Tensorflow & Pytorch)
 - Natural Language processing
 - Computer Vision
-- FastAPI
+- FastAPI 
 - *more will updated soon*
   
 <!-- ## [Portfolio](https://a4archit.github.io/portfolio) -->
