@@ -1,10 +1,12 @@
 # Hi, I'm Archit Tyagi 👋
 
 I currently worked on these technologies to enhance my skills...
+- Generative AI (LangChain)
 - Machine Learning (Sklearn)
 - Deep Learning (Tensorflow & Pytorch)
 - Natural Language processing
 - Computer Vision
+- For Web Dev (Flask, Django & Streamlit)
 - FastAPI 
 - *more will updated soon*
   
