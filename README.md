@@ -1,3 +1,10 @@
+<div align="center" >
+
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=600&size=21&duration=2000&color=000000&background=FFFFFF&center=true&vCenter=true&width=435&lines=I'm+a+AI/ML+Engineer%2C+;and+a+Python+Developer!)](https://git.io/typing-svg)
+
+
+
 # Hi, I'm Archit Tyagi 👋
 
 I currently worked on these technologies to enhance my skills...
@@ -14,20 +21,25 @@ I currently worked on these technologies to enhance my skills...
 
 ## My Stats
 
+<div align="left" style="width: auto;">
+
 ![Contributions and streaks](https://github-readme-streak-stats.herokuapp.com/?user=a4archit)
 
+</div>
+
+<!-- 
+<div align="left" style="width: auto; margin:0;">
+  
 ![Basic overview](https://github-readme-stats.vercel.app/api?username=a4archit)
+
+</div>
+-->
+
+<div align="right" >
 
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=a4archit&layout=donut-vertical)
 
-
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on my skills
-- 🌱 I’m currently learning NLP
-- 👯 I’m looking to collaborate on some AI-ML projects
+</div>
 
 
 
@@ -40,6 +52,7 @@ Feel free to reach out me:
 *more information will be updated soon* 
 
 
+</div>
 
 <!--
 **a4archit/a4archit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
