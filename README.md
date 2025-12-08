@@ -1,59 +1,117 @@
-<div align="center" >
+<div align="center">
 
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=600&size=21&duration=2000&color=000000&background=FFFFFF&center=true&vCenter=true&width=435&lines=I'm+a+AI/ML+Engineer%2C+;and+a+Python+Developer!)](https://git.io/typing-svg)
-
-
-
-# Hi, I'm Archit Tyagi 👋
-
-I currently worked on these technologies to enhance my skills...
-- Generative AI (LangChain)
-- Machine Learning (Sklearn)
-- Deep Learning (Tensorflow & Pytorch)
-- Natural Language processing
-- Computer Vision
-- For Web Dev (Flask, Django & Streamlit)
-- FastAPI 
-- *more will updated soon*
-  
-<!-- ## [Portfolio](https://a4archit.github.io/portfolio) -->
-
-## My Stats
-
-<div align="left" style="width: auto;">
-
-![Contributions and streaks](https://github-readme-streak-stats.herokuapp.com/?user=a4archit)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=600&size=22&duration=2000&color=000000&background=FFFFFF&center=true&vCenter=true&width=600&lines=I'm+an+AI%2FML+Engineer;Python+Developer;Agentic+AI+%28LangGraph%29;Always+Building+Cool+AI+Stuff!)](https://git.io/typing-svg)
 
 </div>
 
-<!-- 
-<div align="left" style="width: auto; margin:0;">
-  
-![Basic overview](https://github-readme-stats.vercel.app/api?username=a4archit)
+# 👋 Hi, I'm Archit Tyagi
+
+Self-driven AI/ML Engineer & Python Developer building:
+
+- 🚀 Agentic AI systems (LangGraph, LangChain, LangSmith)  
+- 🤖 Deep learning & computer vision projects  
+- ⚙️ AI-powered backends and workflows  
+- 📡 Scalable ML pipelines and automation tools  
+
+Actively looking for **AI/ML Internship or Entry-Level SDE Role**.
+
+---
+
+# 🧠 Tech Stack
+
+### 🌐 Artificial Intelligence / Machine Learning
+- Agentic AI (LangGraph, LangSmith)  
+- Generative AI (LangChain)  
+- Machine Learning (Sklearn)  
+- NLP (Pipelines, Tokenizers, etc.)  
+- Transformers & LLM Architectures  
+- Deep Learning (TensorFlow, Keras)  
+- Reinforcement Learning  
+
+### 🛠️ Development & Tools
+- Python  
+- REST APIs (FastAPI, Flask, Django REST Framework)  
+- Docker  
+- Databases (Postgres, MySQL)  
+- Computer Vision  
+- Web Frameworks (Flask, Django, Streamlit)  
+
+---
+
+# 🚀 Top 3 Projects
+
+---
+
+## **1️⃣ MAASA — Multi AI Agents Student Assistant**
+
+| Status | Repo |
+|--------|------|
+| 🟡 *In development* | 🔒 Closed Source |
+
+### 🔍 About  
+- Multi–AI Agent system for student productivity  
+- Sub-agents (**Deep Agents**) with isolated memory  
+- Strong guardrails + HITL (Human in the Loop)  
+- Handles real tasks autonomously  
+
+---
+
+## **2️⃣ Netflix Shows Recommender System**
+
+| Source | Demo |
+|--------|------|
+| 🔓 [Open Source](https://github.com/a4archit/netflix-srs) | 🚀 [Live Demo](https://netflixsrs.streamlit.app/) |
+
+### 🔍 About  
+- Collaborative filtering–based recommendation engine  
+- Uses **cosine similarity scores**  
+- Dataset of **10,000+** TV shows + movies  
+- Generates personalized suggestions  
+
+---
+
+## **3️⃣ GidHelp — GitHub Description Helper (Next-word Prediction)**
+
+| Source | Demo |
+|--------|------|
+| 🔓 [Open Source](https://github.com/a4archit/gidhelp) | 🚀 [Live Demo](https://gitdes.streamlit.app/) |
+
+### 🔍 About  
+- Next-word prediction model trained on GitHub bios  
+- Dataset of **10,000+ Indian GitHub profiles**  
+- **LSTM Deep Neural Network**, 25k vocab  
+- Over **160,000** training datapoints  
+
+---
+
+# 📊 My GitHub Stats
+
+<div align="center">
+
+![Contributions and Streaks](https://github-readme-streak-stats.herokuapp.com/?user=a4archit)
 
 </div>
--->
 
-<div align="right" >
+<div align="center">
 
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=a4archit&layout=donut-vertical)
-
-</div>
-
-
-
-  
-Feel free to reach out me:
-
-| **[LinkedIn](https://www.linkedin.com/in/a4archit)** | **[Email](mailto:help.atd@gmail.com)** | **[Kaggle](https://kaggle.com/architty108)** |
-|--------------|----------------|-----------------|
-
-*more information will be updated soon* 
-
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=a4archit&layout=donut-vertical)
 
 </div>
 
-<!--
-**a4archit/a4archit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+---
+
+# 🤝 Connect with Me
+
+| Platform | Link |
+|----------|------|
+| 💼 LinkedIn | [Visit Now](https://www.linkedin.com/in/a4archit) |
+| 📧 Email | [Mail Now](mailto:help.atd@gmail.com) |
+| 🧠 Kaggle | [Visit Now](https://kaggle.com/architty108) |
+
+---
+
+<div align="center">
+
+### ✨ *Keep Building. Keep Learning. Keep Growing.* 🚀
+
+</div>
