@@ -44,9 +44,9 @@ Actively looking for **AI/ML Internship or Entry-Level SDE Role**.
 
 ## **1️⃣ MAASA — Multi AI Agents Student Assistant**
 
-| Status | Repo |
-|--------|------|
-| 🟡 *In development* | 🔒 Closed Source |
+| Status | Repo | Research Paper |
+|--------|------|----------------|
+| 🟡 *In development* | 🔒 Closed Source | ⌚ Published soon |
 
 ### 🔍 About  
 - Multi–AI Agent system for student productivity  
