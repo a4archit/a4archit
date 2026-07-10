@@ -1,86 +1,126 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=600&size=22&duration=2000&color=000000&background=FFFFFF&center=true&vCenter=true&width=600&lines=I'm+an+AI%2FML+Engineer;Python+Developer;Agentic+AI+%28LangGraph%29;Always+Building+Cool+AI+Stuff!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=600&size=22&duration=2000&color=000000&background=FFFFFF&center=true&vCenter=true&width=600&lines=I'm+a+GenAI+Developer;Python+Developer;Agentic+AI+%28LangGraph%29;Building+RAG+%26+LLM-Powered+Systems!)](https://git.io/typing-svg)
 
 </div>
 
 # 👋 Hi, I'm Archit Tyagi
- 
-Self-driven AI/ML Engineer & Python Developer building:
 
-- 🚀 Agentic AI systems (LangGraph, LangChain, LangSmith)  
-- 🤖 Deep learning & computer vision projects  
-- ⚙️ AI-powered backends and workflows  
-- 📡 Scalable ML pipelines and automation tools  
+GenAI Developer with hands-on experience building LLM-powered applications, agentic AI systems, and API-driven backends:
+- 🚀 Agentic AI systems (LangGraph, LangChain, LangSmith, AutoGEN)
+- 🤖 RAG pipelines & multimodal AI applications
+- ⚙️ FastAPI/Flask-based AI backends and production workflows
+- 📡 Scalable data & ML pipelines (Kafka, Airbyte)
 
-Actively looking for **AI/ML Internship or Entry-Level SDE Role**.
+Actively looking for **GenAI / AI-ML Internship or Entry-Level SDE Role**.
+
+---
+
+# 💼 Experience
+
+**Junior AI Developer Intern — Intellypod** | Remote | 01/2026 – 07/2026 (6 Months)
+- Contributed to 3+ production-oriented AI projects
+- Developed and enhanced ETL and ML pipelines based on business requirements
+- Built scalable data integration workflows using Apache Kafka, Airbyte, and custom pipelines
+- Designed and developed RESTful APIs using Flask and FastAPI for AI applications
+- Built scalable RAG applications using document and database knowledge sources
 
 ---
 
 # 🧠 Tech Stack
 
-### 🌐 Artificial Intelligence / Machine Learning
-- Agentic AI (LangGraph, LangSmith)  
-- Generative AI (LangChain)  
-- Machine Learning (Sklearn)  
-- NLP (Pipelines, Tokenizers, etc.)  
-- Transformers & LLM Architectures  
-- Deep Learning (TensorFlow, Keras)  
-- Reinforcement Learning  
+### 🌐 Generative AI & Agentic Systems
+- LLM Integration, Prompt Engineering, RAG
+- LangChain, LangGraph, LangSmith
+- Multi-Agent Systems, AutoGEN, Tool Calling
+- Vector Databases (Qdrant)
 
-### 🛠️ Development & Tools
-- Python  
-- REST APIs (FastAPI, Flask, Django REST Framework)  
-- Docker  
-- Databases (Postgres, MySQL)  
-- Computer Vision  
-- Web Frameworks (Flask, Django, Streamlit)  
+### 🛠️ Backend & APIs
+- FastAPI, Flask, Django & DRF
+- RESTful API Architecture, Pydantic
 
----
+### 🗄️ Data & Infrastructure
+- MSSQL Server, PostgreSQL, MySQL, Supabase
+- Apache Kafka, Airbyte, Qdrant
+- Linux, Git, GitHub, Docker
+- Cloud Deployment: Render, Vercel
 
-# 🚀 Top 3 Projects
+### 🤖 Machine Learning & NLP
+- ML, NLP Pipelines, Transformer-based Concepts
+- Deep Learning, Multimodal Embeddings
 
----
-
-## **1️⃣ MAASA — Multi AI Agents Student Assistant**
-
-| Status | Repo | Research Paper |
-|--------|------|----------------|
-| 🟡 *In development* | 🔒 Closed Source | ⌚ Published soon |
-
-### 🔍 About  
-- Multi–AI Agent system for student productivity  
-- Sub-agents (**Deep Agents**) with isolated memory  
-- Strong guardrails + HITL (Human in the Loop)  
-- Handles real tasks autonomously  
+### 💻 Programming
+- Python (Advanced), OOPs
 
 ---
 
-## **2️⃣ Netflix Shows Recommender System**
+# 🚀 Top Projects
+
+---
+
+## **1️⃣ APCAS — Any PDF Chatting AI System**
+`RAG` `Multimodal AI` `NLP` `Streamlit`
+
+### 🔍 About
+- Multimodal RAG system for conversational Q&A over user-uploaded PDFs
+- Combines text and CLIP image embeddings for retrieval
+- Retrieval pipeline blending textual + visual context for accurate LLM responses
+- Optimized chunking and prompts, deployed with Streamlit for real-time interaction
+
+---
+
+## **2️⃣ YouTube Video Question Answer**
+`RAG` `API Integration` `Question Answer System`
+
+### 🔍 About
+- RAG-powered application for interactive Q&A over YouTube videos
+- Lets users query video content instead of manually searching footage
+- Built with FastAPI and LangChain, efficient retrieval pipelines for real-time responses
+- Currently supports English videos
+
+---
+
+## **3️⃣ Netflix Shows Recommender System**
+`Machine Learning`
 
 | Source | Demo |
 |--------|------|
 | 🔓 [Open Source](https://github.com/a4archit/netflix-srs) | 🚀 [Live Demo](https://netflixsrs.streamlit.app/) |
 
-### 🔍 About  
-- Collaborative filtering–based recommendation engine  
-- Uses **cosine similarity scores**  
-- Dataset of **10,000+** TV shows + movies  
-- Generates personalized suggestions  
+### 🔍 About
+- Collaborative filtering–based recommendation engine
+- Uses **cosine similarity scores**
+- Dataset of **10,000+** TV shows + movies
+- Generates personalized suggestions
 
 ---
 
-## **3️⃣ GidHelp — GitHub Description Helper (Next-word Prediction)**
+## **4️⃣ GitHelp — LLM-based Text Generation System**
+`Deep Learning` `NLP`
 
 | Source | Demo |
 |--------|------|
 | 🔓 [Open Source](https://github.com/a4archit/gidhelp) | 🚀 [Live Demo](https://gitdes.streamlit.app/) |
 
-### 🔍 About  
-- Next-word prediction model trained on GitHub bios  
-- Dataset of **10,000+ Indian GitHub profiles**  
-- **LSTM Deep Neural Network**, 25k vocab  
-- Over **160,000** training datapoints  
+### 🔍 About
+- NLP-based next-word prediction system using deep learning (LSTM)
+- Collected and processed a **10K+ real-world GitHub profiles** dataset
+- End-to-end ML pipeline: preprocessing, training, and inference
+- Working prototype demonstrating practical text generation use cases
+
+---
+
+# 🎓 Education
+
+**IIMT University** — Bachelor of Computer Applications (BCA) | 2023 – 2026 | Meerut, Uttar Pradesh
+
+---
+
+# 🏆 Achievements
+
+- 🥈 2nd Position, Technovation 2025 – Project Presentation (IIMT University)
+- 🏅 Top 50 Teams, Internal Hackathon – Smart India Hackathon
+- 🌱 Active contributor to open-source and personal GenAI projects on GitHub
 
 ---
 
@@ -105,8 +145,8 @@ Actively looking for **AI/ML Internship or Entry-Level SDE Role**.
 | Platform | Link |
 |----------|------|
 | 💼 LinkedIn | [Visit Now](https://www.linkedin.com/in/a4archit) |
-| 📧 Email | [Mail Now](mailto:help.atd@gmail.com) |
-| 🧠 Kaggle | [Visit Now](https://kaggle.com/architty108) |
+| 📧 Email | [Mail Now](mailto:archittyagi599@gmail.com) |
+| 🧠 GitHub | [Visit Now](https://github.com/a4archit) |
 
 ---
 
