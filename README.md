@@ -1,3 +1,4 @@
+
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=600&size=22&duration=2000&color=000000&background=FFFFFF&center=true&vCenter=true&width=600&lines=I'm+a+GenAI+Developer;Python+Developer;Agentic+AI+%28LangGraph%29;Building+RAG+%26+LLM-Powered+Systems!)](https://git.io/typing-svg)
@@ -13,6 +14,28 @@ GenAI Developer with hands-on experience building LLM-powered applications, agen
 - 📡 Scalable data & ML pipelines (Kafka, Airbyte)
 
 Actively looking for **GenAI / AI-ML Internship or Entry-Level SDE Role**.
+
+| Latest Update | 16 July 2026 |
+|----------|------|
+
+
+---
+
+## 🚀 Live Projects
+
+| Project | Live Demo |
+|---|---|
+| **Tutorfolio** 🚧 *(in development)* | [Live Demo](https://tutorfolio-backend.onrender.com/docs) |
+| APCAS - Multimodal RAG *(Few features are not working)* | [Live Demo](https://tutorfolio-backend.onrender.com/docs) |
+| Netflix Shows Recommender System | [Live Demo](https://netflixsrs.streamlit.app/) |
+| Fake News Detector | [Live Demo](https://rfnews.streamlit.app/) |
+| Gidhelp (Next Word Predictor) | [Live Demo](https://gitdes.streamlit.app/) |
+| News Classifier | [Live Demo](https://labelnews.streamlit.app/) |
+| Text Summarizer | [Live Demo](https://textt5.streamlit.app/) |
+| Deol Devgan Classifier | [Live Demo](https://deoldevgan.streamlit.app/) |
+| Number Classifier | [Live Demo](https://digitc.streamlit.app/) |
+| Weight Predictor | [Live Demo](https://weight.streamlit.app/) |
+
 
 ---
 
@@ -132,11 +155,11 @@ Actively looking for **GenAI / AI-ML Internship or Entry-Level SDE Role**.
 
 </div>
 
-<div align="center">
+<!-- <div align="center">
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=a4archit&layout=donut-vertical)
 
-</div>
+</div> -->
 
 ---
 
